@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "f9c5c34c38008f1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da1edf9c54cdafb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02e3fa73e72a78f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultural Miscelany/Calendar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2e709b889f0de13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Sarevok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sarevok"
+            }
+          },
+          {
+            "id": "a89b1078144d470c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "List of NPCS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "List of NPCS"
+            }
+          },
+          {
+            "id": "e1898004dadda56f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zeal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zeal"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b38be3b3f7258732",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41c56067284f755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa65546d8055a75a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1fe1eaa34f58349f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f4a792d2c6b35099",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4438b71fafd57df8",
+    "type": "split",
+    "children": [
+      {
+        "id": "898daff8828b6612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6096c367030cf31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Species/Changelings.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Changelings"
+            }
+          },
+          {
+            "id": "0005b137c4a90e4b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Species/Changelings.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Changelings"
+            }
+          },
+          {
+            "id": "152b0e79f7bda8e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "85422143b3ce2407",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Species/Changelings.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Changelings"
+            }
+          },
+          {
+            "id": "f579305057d8eddb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e1898004dadda56f",
+  "lastOpenFiles": [
+    "PCs/Sarevok.md",
+    "PCs/Holly.md",
+    "Sessions/Session 1.md",
+    "Ideensammlung.md",
+    "Factions & Forces/Religions/The Blood of Vol.md",
+    "Zeal.md",
+    "Cultural Miscelany/Calendar.md",
+    "PCs",
+    "Cultural Miscelany/Services.md",
+    "List of NPCS.md",
+    "NPCS/Kar Bloodhorn.md",
+    "NPCS/audaxa anreus Lyrris.md",
+    "Planes/List of Planes.md",
+    "List of Sessions.md",
+    "Factions & Forces/List of Factions.md",
+    "Untitled.canvas",
+    "Species/Elves.md",
+    "Species/Half-Elves.md",
+    "Species/Orcs and Halforcs.md",
+    "Species/Kalashtar.md",
+    "Species/Halfling.md",
+    "Geography/Xen'Drik.md",
+    "Species/Humans.md",
+    "Factions & Forces/List of Religions.md",
+    "Geography/Continents/Khorvaire/List of Nations of Khorvaire.md",
+    "Geography/Continents/Khorvaire/Thrane.md",
+    "Geography/Continents/Khorvaire/Demon Wastes.md",
+    "Geography/List of Continents.md",
+    "NPCS",
+    "Species",
+    "Sessions",
+    "Planes",
+    "Media archive/Pasted image 20240810230357.png",
+    "Media archive",
+    "History",
+    "Geography/Continents/Khorvaire/Settlements and Places/Sharn  Distrikts",
+    "Geography/Continents/Khorvaire/Settlements and Places",
+    "Geography/Continents/Khorvaire"
+  ]
+}

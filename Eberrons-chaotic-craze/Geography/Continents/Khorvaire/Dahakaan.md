@@ -1,0 +1,2 @@
+The fallen [[Goblinoids|Goblin]] Empire from ages long long ago. Once spanning the entirety of Khovaire the Goblinoid kingdom fell into Ruin during the fight against the [[Daelkyr]]. 
+The few remainging Remenants are the virtuity of the [[Orcs and Halforcs] | Orc]] Tribes in their efforts to keep the overlords out of the Material Plane as well as the [[Goblinoids|Heirs of Dhakaan]] a small enclave of surviving Goblinoids that seek to restore the empire. 
