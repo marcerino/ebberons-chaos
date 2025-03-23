@@ -1,3 +1,10 @@
+---
+aliases:
+  - Jay Bayson
+  - Saren Vokes
+---
+
+
 Ideale:
 Ehrgeiz und Willenskraft sind der Schlüssel zum Erfolg – ich halte mein Ziel im Blick und lasse mich nicht abbringen.
 Sklaverei ist eine Verschwendung von Potenzial; ich befreie Sklaven, um ihre Fähigkeiten für einen größeren Zweck zu nutzen, nicht aus Moral.
@@ -6,7 +13,7 @@ Wenn mich jemand angreift, muss er oder sie damit rechnen zu sterben.
 ___
 Persönlichkeit:
 Ich bin ein guter Zuhörer und gebe ungewollt Ratschläge, oft mit einem praktischen Blickwinkel.
-Ich wirke oft geistesabwesend, doch ich bin aufmerksam und bemerke mehr, als die Leute denken.Ich bin ein guter Zuhörer und gebe ungewollt Ratschläge, oft mit einem praktischen Blickwinkel.
+Ich wirke oft geistesabwesend, doch ich bin aufmerksam und bemerke mehr, als die Leute denken.
 Ich wirke oft geistesabwesend, doch ich bin aufmerksam und bemerke mehr, als die Leute denken.
 ___
 Mankerl:
