@@ -3,8 +3,6 @@ aliases:
   - Jay Bayson
   - Saren Vokes
 ---
-
-
 Ideale:
 Ehrgeiz und Willenskraft sind der Schlüssel zum Erfolg – ich halte mein Ziel im Blick und lasse mich nicht abbringen.
 Sklaverei ist eine Verschwendung von Potenzial; ich befreie Sklaven, um ihre Fähigkeiten für einen größeren Zweck zu nutzen, nicht aus Moral.
