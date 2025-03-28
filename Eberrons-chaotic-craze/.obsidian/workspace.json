@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Themen und Konflikte.md",
+                "file": "Sessions/Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Themen und Konflikte"
+              "title": "Session 1"
             }
           },
           {
@@ -239,10 +239,10 @@
   },
   "active": "3edba5e4d09c922b",
   "lastOpenFiles": [
+    "Themen und Konflikte.md",
     "List of NPCS.md",
     "PCs/Zeal.md",
     "NPCS/Kar Bloodhorn.md",
-    "Themen und Konflikte.md",
     "PCs/Sarevok.md",
     "PCs/Meadow.md",
     "List of Sessions.md",
