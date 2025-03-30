@@ -6,6 +6,8 @@
 * [[Feriadres]]
 **Random NPCs:**
 *  [[audaxa anreus Lyrris]]: Journalistin aus Sharn
+* [[3]]
+* 
 **Throwaway NPCs**
 * Otto Motor 
 #List 
