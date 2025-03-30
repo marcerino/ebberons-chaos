@@ -18,6 +18,6 @@ Deiser wein 8 hp wiederherstellen und funktioniert im Mournland
 ___
 # Plot
 In der geheimgesellschaft des [[Aurum]] findet ein Treffen in dem Gebäude des momentanen Stadthalter [[Arnold ir'Sarin]] statt. In diesem geht es um eine "Prophezeiung der Drachen" zu welchem einige Reisende kommen. 
-
+Desswegen findet man 
 
 #Ort 
