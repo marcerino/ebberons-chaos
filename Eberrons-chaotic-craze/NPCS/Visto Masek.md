@@ -1,0 +1,1 @@
+Ist verrendetes Konkordat des [[Aurum]] 

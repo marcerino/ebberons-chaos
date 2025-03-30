@@ -251,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,14 +265,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f488d77186f3b99",
+  "active": "fa65546d8055a75a",
   "lastOpenFiles": [
-    "Geography/Continents/Khorvaire/Settlements and Places/Hatheril.md",
+    "NPCS/Visto Masek.md",
     "Sessions/Session 1.md",
+    "Geography/Continents/Khorvaire/Settlements and Places/Hatheril.md",
     "List of NPCS.md",
     "Ideensammlung.md",
     "Factions & Forces/Aurum.md",
-    "Forn ir'Tental.md",
+    "NPCS/Forn ir'Tental.md",
     "Hathriel.md",
     "NPCS/Antonia.md",
     "NPCS/Raben Königin.md",
@@ -291,7 +293,6 @@
     "Zeal.md",
     "PCs/Meadow.md",
     "NPCS/3.md",
-    "PCs/Holly.md",
     "PCs",
     "Untitled.canvas",
     "NPCS",
