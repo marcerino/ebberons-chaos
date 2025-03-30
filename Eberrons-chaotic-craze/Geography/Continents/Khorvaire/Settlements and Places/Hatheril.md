@@ -20,4 +20,10 @@ ___
 In der geheimgesellschaft des [[Aurum]] findet ein Treffen in dem Gebäude des momentanen Stadthalter [[Arnold ir'Sarin]] statt. In diesem geht es um eine "Prophezeiung der Drachen" zu welchem einige Reisende kommen. 
 Desswegen findet man 
 
+Die  Truppe wird von [[Visto Masek]] 
+___
+Während der Verkündung wir der Arnold umgebracht 
+Hook
+
+
 #Ort 
