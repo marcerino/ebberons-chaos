@@ -1,6 +1,9 @@
 - Meadow ist im lädchen und kümmmert sich um ihr Tagesgeschäft
-- Holly wird von dem Netten Kar Bloodhorn 
+- Holly wird von dem Netten Kar Bloodhorn nach hatheril geschickt 
 - Sarevok ist erst seit Kurzem in der Welt, und wird von seinem Paatron Geleitet
 - Zeal wird von seinem Patron geleitet 
+___
+[[Hathriel]]  
 
+die stadt ist in eine Kleine truoppe im norden von 
 #Session

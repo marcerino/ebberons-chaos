@@ -7,7 +7,8 @@
 **Random NPCs:**
 *  [[audaxa anreus Lyrris]]: Journalistin aus Sharn
 * [[3]]
-* 
+* [[Sandra]]
+* [[Anvus ir' Saren]]
 **Throwaway NPCs**
 * Otto Motor 
 #List 
