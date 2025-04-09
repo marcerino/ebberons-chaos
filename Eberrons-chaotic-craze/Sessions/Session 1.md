@@ -19,10 +19,10 @@ Sarevok traf auf [[Visto Masek]] und wurde unter Vertrag genommen
 
 
 TODO:
-Trankbeutel an Holly
+
 Taverne inklusive der Halbling Dame
 Wie verbinde ich die alle
-Aurum Halle
+Aurum Halle 
 Weitere Plots
 
 
