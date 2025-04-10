@@ -2,6 +2,7 @@ Was sind die Vorraussetzungen:
 * Holly und Meadow sind unterwegs in der Stadt
 * Vori und zeal sind momentan beide im gasthaus des Goldenen Drachen und Planen des Abends durch die gassen zu gehen und im Silbernen Nagel Wettspiele zu besuchen. etc. pp.
 * [[Sarevok]] wurde während der Suche nach einem  Auftrag von Visto Masek aufgegabelt
+* [[Hatheril]]
 ___
 # Potenzielle Story Fäden:
 ### Encounter für Holly und Meadow
@@ -17,7 +18,10 @@ Saren spricht mit seinem Patron, wo ihm der erste Auftrag zugewiesen wird, die P
 ## Zusammenführungen
 
 ### Meadow und Holly zu Sarevok und danach Death Squad 
-Die Geldeintreiber und Visto überhört die rangeleien. letzten endes dann Vori etc im gasthaus Silberne Wurzel
-### 
+Die Geldeintreiber und Visto überhört die rangeleien. letzten endes dann Vori etc im gasthaus Silberne Wurzel wo die letzen beiden Aufgegabelt werden
+### Sarevok zu Vori und Zeal und dnanach zu Meadow und Holly 
+
+
+
 
 #Session 

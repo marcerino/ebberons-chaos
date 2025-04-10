@@ -1,5 +1,5 @@
 Paddies Character 
-
+[[Vori]] agiert als Voris Pater Vater 
 * Unfreiwillig im Kult Blood of Vol gelandet
 * 2 Lvl Cleric Grave, 1lv Archfey Patron Warlock mit [[Feriadres]]
 * War gifted  desswegen auf Missionar und dann archfey welche für chaos stifted und infos über den Kult und dessen Machenschaften  
