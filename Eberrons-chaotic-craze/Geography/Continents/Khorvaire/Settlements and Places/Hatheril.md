@@ -16,16 +16,16 @@ Deiser wein 8 hp wiederherstellen und funktioniert im Mournland
 ## Taverne des Goldenen Drachen
 Geleitet von einer Halblingdame Names liana, es gibt einen Hinterhof mit einem bediesnteten Quartier wo die bediesnteten der Liana sind. Liana ist Kaufmännisch und 
 ### Quatier der Silbernen Wurzel 
-Kleiners Gasthaus, geleitet von dem Orc-jungen Paresh 
+Kleiners Gasthaus, geleitet von dem Halborc-jungen Paresh geleitet, bietet Schlaf- und Stundenplätze sowie ein Assortiment an Illegalen glücksspielen sowie einenherren der das Deck of Many more things/ Deck of Wonder bei sich trägt und nutzt.  
+
+###
 ___
 # Plot
 In der geheimgesellschaft des [[Aurum]] findet ein Treffen in dem Gebäude des momentanen Stadthalter [[Arnold ir'Sarin]] statt. In diesem geht es um eine "Prophezeiung der Drachen" zu welchem einige Reisende kommen. 
-Desswegen findet man 
+Die Prophezeiung selber handelt von einem Umbruch in welchem ein 13-tes Land auferstehen wird.  
 
 Die  Truppe wird von [[Visto Masek]] 
 ___
-Während der Verkündung wir der Arnold umgebracht 
-Hook
-
+Während der Verkündung wir der Arnold umgebracht <3
 
 #Ort 

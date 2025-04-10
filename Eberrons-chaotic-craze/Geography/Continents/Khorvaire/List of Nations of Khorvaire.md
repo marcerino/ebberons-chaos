@@ -5,7 +5,6 @@ The Five Nations of the former [[Galifar]] Kingdom
 * [[Karrnath]]
 * [[Thrane]]
 New Nations recognized under the [[Treaty of Thronehold]]:
-* [[Droaam]]
 * [[Lhazaar Principalities]]
 * [[Zilargo]]
 * [[Darguun]]
