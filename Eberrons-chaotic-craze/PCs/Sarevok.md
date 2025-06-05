@@ -45,3 +45,27 @@ gaining Spells lvl 1 dc 15, lv2 18, lv 3 21 ... pro Magic stuff kram dc -2
 ___
 # Plot:
 Die "[[Raben Königin]]" ist eine Fremde Fey, welche nach dem Krieg in die Welt kam 
+
+___
+# Charactere aus fürheren Zeiten
+Also Verbündet: 
+Tvarf Goldensturm 
+Zwerg 
+Ist ein, wie nennt man das, Fixer? Also jemand der Aufträge an andere verteilt. Er ist der Verbindungspunkt zwischen Auftragnehmer und Geber. Saren hat oft mit ihm zusammengearbeitet und daher kennen sie sich gut. Freunde sind sie nicht unbedingt, aber verstehen sich soweit gut. Tvarf ist ein typischer Zwerg, schwarz Humorig, trinkt gern Bier, ist gesellig und rubig zu gleich. 
+
+Remus Vatarian 
+Halb Elf 
+Auch ein Fixer, aber berühmter und berüchtigter. Er ist auch selbst als Söldner unterwegs, aber nur wenn er lust hat. Ein Schelmischer, Intelligenter junger Mann. Er ist ein kampfkünstler (Mönch/Schurke). Er neckt gerne, und auch so, scheint er immer ein Plan zu verfolgen. Dennoch hat Remus prinzipien! Saren und Remus haben eine komplexe Beziehung zwischen Liebe und Hass. Er ist durch siene silbernen Haare und blauen augen zu erkennen, hohe gestalt. Trägt oft elegante Kleidung, die seine kämpfere Natur verbirgt.
+
+Myrlin Avagon 
+Tiefling 
+Myril ist ein Tiefling, bei dem es erstmal nicht eindeutig ist, dass er einer ist. Sein Aussehen gleicht eher einem Halb Elfen, aber bei genaueren hinsehen sieht man die kleinen Tiefling details. Ein Stark magier der saren die Magie einst bei brachte. Beide haben eine art Vater Sohn verhältnis, wobei beide es ungerne zugeben. Nur Myrlin ist es erlaubt, Saren kosenamen zu geben.. wie Sari Vari oder Muffel Magie (Saren tut immer so, als wenn er Myrlin nicht leiden kann oder immer genervt ist.) 
+
+Feinde/ oder Rivalen: 
+Damon Avgra 
+Mensch 
+Damon ist ein Barbar wie er im Buch steht. Zwar Intelligent, aber durch seine Mordlust und Unbändiger Wut macht ihn wieder zu einer Bestie. Er war ein General, und nun ist er ein Monster. Beeindruckene größe ist er nicht zu übersehen. Saren hatte vor langer zeit einen harten Kampf gegen ihn und hat ihn besiegen können. Damon wurde aber nicht getötet, sondern gefangen genommen. Und wenn Damon frei kommt... dann (du weißt was passiert)
+
+Irena Bloom 
+Elfe
+Eine geshcickte und raffinierte Magierin, die weiß ihr charisma und magie geschickt einzusetzen. Sie macht ihr eigenes Ding, aber Saren hat eines ihrer Geschäfte unwissentlich gestört. Dadurch hat sie ein... bock auf Saren und würde ihn gerne erdrosseln. Ich denke das reicht erstmal. 

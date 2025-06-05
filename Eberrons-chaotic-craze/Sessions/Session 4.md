@@ -11,5 +11,11 @@ ___
 Was geschah,
 Whisper wurde von den Herren besucht, Und es kam Raus, dass sarevok Lebendig war. und eigentlich der Geopferte sein sollte.
 Meadow wurde wegen ihre Schrei dass sie die ... Sei
-Zeal und Holly fanden im bureau Notizen, einen Armreif und Korrospondenz zwischen [[Visto Masek]]und [[Arnold ir'Sarin]] über die Nichte annabella, welche besondere Kräfte entwickelte.
+Zeal und Holly fanden im bureau Notizen, einen Armreif und Korrospondenz zwischen [[Visto Masek]]und [[Arnold ir'Sarin]] über die Nichte annabella, welche besondere Kräfte entwickelte. Außerdem ist Sombra entstanden.
 Meadow lernte [[audaxa anreus Lyrris]] kennen welche mit meadow Insgespräch kam. Audaxa hatte  nachforschungen für den korranberg Chronicle verfasst. 
+___
+Whats next.
+
+Arnolds mansion
+Was geschah am tag des Opferns
+Wasist Mit Sombra
