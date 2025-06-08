@@ -9,3 +9,4 @@ Paddies Character
 * Tims Character Connection zu einer Diebesgilde, Zeal ist informant 
 * Blood of Vol hatte Probleme mit Diebesgilde und haben einen außenposten ge raidet 
 ---
+Ist waffe zurck zum Lebnen
