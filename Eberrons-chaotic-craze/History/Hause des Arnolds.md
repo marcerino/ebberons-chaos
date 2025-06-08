@@ -8,4 +8,4 @@ Magiescher Überfall
 
 Was macht es alles besonders.
 
-Schätze: 1 Alchemie Jug, Pearl of Power, 1 Silverd Weapon
+Schätze: 1 Alchemie Jug, Pearl of Power, 1 Silverd Schwert, ein Kristallernern Türknauf
