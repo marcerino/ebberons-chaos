@@ -12,7 +12,8 @@ ___
 - Arnold ist wieder nicht da er ist mit seinem Truppe inj der Städte um 
 - Die Damen und 
 ___
-- Was gescha. Whisper sprach mit Sarevok und Paddi. über den Auftrag, eine dame mit volln blumen und Sombr an Sarevok.
+- Was gescha. 
+- Whisper sprach mit Sarevok und Paddi. über den Auftrag, eine dame mit volln blumen und Sombr an Sarevok.
 - Meadow stoß dazu und es ging nach hause
 - Holly erfuhr durch meadow über die ganzen sachen
 - Holly erfuhr über Korranberg Chronicle
