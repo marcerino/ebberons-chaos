@@ -1,9 +1,9 @@
 - Mutter Velina kommt aus Cyrie dort in den Slumms, wegen Prostitution weil Arm 
-- mark of the Sentinel wegen Vattern 
+- [[House Deneith|Mark of Sentinel]] of the Sentinel wegen Vattern 
 - Bürgerlicher Name: Riaan 
 - Mutter Tod - keine körperliche auswirkungen von gewlat erkennbar
 - ab 7 alleine in Sharn 
-- ab 8 einer kleinen Diebes gilde Umbra - subsidar von Tarkanan (Wolte sein essen Verteidigen und tötete den älteren Angreifer - Aufmerksammkeit der u Gilde und rekrutierung) diebe haben ihn Ruuß gennant 
+- ab 8 einer kleinen Diebes gilde [[Umbra]] - subsidar von Tarkanan (Wolte sein essen Verteidigen und tötete den älteren Angreifer - Aufmerksammkeit der u Gilde und rekrutierung) diebe haben ihn Ruuß gennant 
 - **Umbra** spliter gruppe von Tarkanan 
 - mit 12 Zeal kennenlernen wo zeal  
 - mit 15 jahren Silbernen Flamme Preister Umgebracht danach wurde Umbra geraided und Zerschlagen. 
