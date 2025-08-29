@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 8.md",
+                "file": "Sessions/Session 9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 8"
+              "title": "Session 9"
             }
           },
           {
@@ -41,16 +41,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 9.md",
+                "file": "List of Sessions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 9"
+              "title": "List of Sessions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3aeb00ecfc54f909",
+  "active": "6f3a8677b6cc7654",
   "lastOpenFiles": [
-    "Die Prophezeihung.md",
-    "d100 Alltagsfragen zur Charaktervertiefung.md",
-    "Sessions/Session 9.md",
     "Sessions/Session 8.md",
     "List of Sessions.md",
+    "d100 Alltagsfragen zur Charaktervertiefung.md",
+    "Die Prophezeihung.md",
+    "Ideensammlung.md",
+    "List of NPCS.md",
+    "q referenz.md",
+    "Seven Things To Know.md",
+    "Themen und Konflikte.md",
+    "Sessions/Session 9.md",
     "Files/Exploring Eberron.md",
     "Files",
     "Sessions/Session 6.md",
@@ -233,11 +237,6 @@
     "Events",
     "NPCS/Arnold ir'Sarin.md",
     "Media archive/Pasted image 20240810230357.png",
-    "Themen und Konflikte.md",
-    "Seven Things To Know.md",
-    "q referenz.md",
-    "Ideensammlung.md",
-    "List of NPCS.md",
     "NPCS/Sandra.md",
     "Sessions/Session 3.md",
     "PCs",
