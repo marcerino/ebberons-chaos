@@ -1,0 +1,2 @@
+
+Das Leben verfliegt im Verfluchten Wind und der Aufstieg des 13 Lands beginnt. Der geist des Wissens plagt die Türme der Stadt, Ein hof an geschichten als 2. erwacht, intiefster stunde wo wein fließt und Gold so treffen sich ringe von der klaue gewollt, und wenn sie Lebt dann fällt die Stille  .. . .. .. .. .. .. . .. ..... . . . ., gejagt von neuem Schatten begleitet der alte Schatten den den höfling .... . ... . Des bestien herzens zerstört die wacht. 
