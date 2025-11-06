@@ -20,3 +20,5 @@ ___
 - Zeal hatte einen Traum und Traf auf [[Feriadres]] welche ihm eine Bead of Power gab. und auftrag mit reconessance
 - Sarevok merkt derbei dass die Einnerungen auf ihn 
 - Zerstritten haben sich Meadow und Zeal : (
+
+#Session 

@@ -22,3 +22,6 @@ ___
 Was bisher geschah , leute sind angekommen wollten  Whisper befreien, siegelkreis wurde unterbrochen und Whisper konnte Tatsächlich gerettet werden.
 
 Gleichzeitig haben die den Boulette mitgenommen es folgt eine verfolgingsjagt.
+
+
+#Session 

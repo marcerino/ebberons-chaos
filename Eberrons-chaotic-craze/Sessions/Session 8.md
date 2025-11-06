@@ -67,3 +67,6 @@ geime Wege
 [dust of disappearance](https://www.dndbeyond.com/magic-items/4623-dust-of-disappearance).
 [cloak of billowing](https://www.dndbeyond.com/magic-items/27040-cloak-of-billowing), and the chest contains an [immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
 [staff of birdcalls](https://www.dndbeyond.com/magic-items/27137-staff-of-birdcalls) here.
+
+
+#Session 
