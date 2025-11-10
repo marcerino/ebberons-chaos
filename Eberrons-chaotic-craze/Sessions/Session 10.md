@@ -2,9 +2,6 @@ Measdow wird gerettet von sich selbst und dem kleinen hundi
 
 
 
-
-
-
 Die anderen sie müssen jetzt scnelll aus den  Vershciednen ecken vo Hatheril raus, was wird gebraucht ?
 Eine Jagd Szenerie, First chase mechanism
 Kurz nach dem Mord des Stadthalters:

@@ -40,6 +40,6 @@ Und hat der Gedächtnisverlust etwas damit zu tun, sodass Meadow vor sich selbst
 Kurze Anmerkung von Daniel: Wenn du die Vergangenheit aufgreifst. Es muss nichts mit den Hobgoblinstämmen etc. zu tun haben (weil es Ebberon gerade anbietet). Kann in eine ganz andere Richtung gehen, da Meadow ja außerhalb auch der Hobgoblins gelebt hat. Also ein Gilde, Organisation, Familie usw., was Ebberon hat, ist vielleicht sogar interessanter, weil man mit den Hobgoblins rechnet und es so mainstreaming Ebberon wäre. Muss auch ehrlich gestehen, das Land und die Story der Hobgoblins klang jetzt nicht nach etwas, was mich interessiert. :D Wenn das Kind bzw. nun Erwachsene Person lebt, kann es ein NPC oder PC sein. Wäre jawdropping wenns ein PC ist, aber kein Muss. :)
 ___
 
-House Virdanis experimented with the Lamannia, the Twilight Forest
+House **Virdanis** experimented with the **Lamannia**, the **Twilight Forest**
 
-Antonia was member of Irian, the Eternal Dawn 
+**Antonia** was member of **Irian**, the **Eternal Dawn**.
