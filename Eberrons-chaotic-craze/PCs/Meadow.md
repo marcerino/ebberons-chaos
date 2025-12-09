@@ -1,7 +1,7 @@
 Ideals: 
 Charity. I always try to help those in need, no matter what the personal cost. (Good)
 ___
-Personality:vault backup: {{date}}
+Personality:
 Nothing can shake my optimistic attitude.
 
 I can find common ground between the fiercest enemies, empathizing with them and always working toward peace.
