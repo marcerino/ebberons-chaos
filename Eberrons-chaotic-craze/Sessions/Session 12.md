@@ -7,7 +7,7 @@ Holly erfährt von der neugründung von
 - [x] Allewayfight
 - [x] Umbra reveal 
 - [x] The Anvill
-- [ ] Introduction of Nazo
+- [x] Introduction of Nazo
 ___
-- [ ] Magic item for nat 20 for the search of the Evil  misters., Fog vail
-- [ ] Sayu nach afiliations mit Daask konfrontieren. 
+- [x] Magic item for nat 20 for the search of the Evil  misters., Fog vail
+- [x] Sayu nach afiliations mit Daask konfrontieren. 

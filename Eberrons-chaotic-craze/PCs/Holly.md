@@ -19,3 +19,4 @@ Gedanke war, da der krieg noch nicht lange her war, das ihre Mutter sehr darin i
 ___
 # Der Zwist
 1. der Twist daran ist: dieses telepathy nutzen purple und red holl zur ganz simplen kommunikation mit einandernach außen zu anderen casten kann das aber immer nur die, die "inside" ist quasi purple holly is außen, dann kann red holly telepatisch mit den teammembers reden
+Sie hat teile der Furie in ihr Geboren im zeichen der Furie [[The Dark Six]]
