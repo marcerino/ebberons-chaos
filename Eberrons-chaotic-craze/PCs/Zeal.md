@@ -7,6 +7,6 @@ Paddies Character
 * casual womanizer 
 * A hooded dude was the archfey patron  und versprach wissen über den Vattern 
 * Tims Character Connection zu einer Diebesgilde, Zeal ist informant 
-* Blood of Vol hatte Probleme mit Diebesgilde und haben einen außenposten ge raidet 
+* Blood of Vol hatte Probleme mit Diebesgilde und haben einen außenposten geraidet 
 ---
 Ist waffe zurck zum Lebnen
