@@ -38,6 +38,6 @@ Eigene szenen beschreiben:
 - Holly: Düster aber heimelig, Ein kind 
 ___
 
-Dude den Zeal  ichtz magh:  Werisch
+Dude den Zeal  nicht mag:  Werisch
 
 Oberin: Galeria
